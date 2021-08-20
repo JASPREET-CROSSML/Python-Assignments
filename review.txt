@@ -1,0 +1,3 @@
+Remove unwanted codes that u have commented out
+Add doc string for help and explaining
+Comply with PEP8 format
